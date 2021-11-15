@@ -1,0 +1,1 @@
+a simple extension to auto click on popcat website
